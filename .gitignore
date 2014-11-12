@@ -1,0 +1,11 @@
+.*
+!.gitignore
+elpa/
+history
+server
+auto-save-list/
+~*
+*~
+.#*
+#*
+projectile*
