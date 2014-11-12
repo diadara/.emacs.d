@@ -80,3 +80,6 @@ finally (return t)))
 
 (require 'wrap-region)
 (wrap-region-mode t)
+
+;;python
+(require 'init-jedi)
